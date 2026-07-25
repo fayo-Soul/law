@@ -1,0 +1,114 @@
+{
+  "eval_date": "2026-07-24 20:56:10",
+  "total_samples": 3,
+  "evaluated": 3,
+  "metrics": {
+    "avg_response_time_ms": 31159.0,
+    "recall_at_k_pct": 0.0,
+    "recall_sample": 2,
+    "with_references": 3,
+    "citation_coverage_pct": 100.0
+  },
+  "quality_gates": {
+    "recall_at_k": true,
+    "citation_coverage": true,
+    "average_latency": true,
+    "no_runtime_errors": true
+  },
+  "passed": true,
+  "domain_distribution": {
+    "民法": 1,
+    "劳动法": 1,
+    "行政法": 1
+  },
+  "results": [
+    {
+      "question": "离婚之后孩子的抚养权怎么判？",
+      "expected_domain": "民法",
+      "response_time_ms": 36286.2,
+      "used_rag": true,
+      "used_fallback": false,
+      "references_count": 7,
+      "recall_at_k": 0.0,
+      "cited_articles": [
+        "检索证据提供了部分法",
+        "后续调解或法",
+        "根据当前知识库资料无法",
+        "人民法",
+        "当前知识库未检索到直接规定离婚后抚养权归属判定标准的具体法",
+        "年龄是法",
+        "是否存在其他关于抚养权变更的法",
+        "抚养是父母的法",
+        "这是根据您提供的检索证据整理的法",
+        "除已检索到的司法",
+        "司法",
+        "现有检索证据仅涉及司法",
+        "案例佐证了协议的灵活性和法",
+        "子女抚养权的司法",
+        "相关司法",
+        "相关法"
+      ],
+      "has_answer": true
+    },
+    {
+      "question": "被公司无故辞退，我能拿到多少赔偿？",
+      "expected_domain": "劳动法",
+      "response_time_ms": 28476.7,
+      "used_rag": true,
+      "used_fallback": false,
+      "references_count": 7,
+      "recall_at_k": 0.0,
+      "cited_articles": [
+        "当前检索证据未能提供任何关于违法",
+        "当前知识库未检索到直接规定劳动合同解除或终止时赔偿金计算方式的相关法律法",
+        "但未涉及法",
+        "相关法",
+        "除法",
+        "但未涉及赔偿金的法",
+        "为国家赔偿相关法",
+        "但未确立通用的赔偿金额计算法",
+        "或合法",
+        "但同样未提供赔偿金本身的法定计算方法",
+        "不能作为计算法",
+        "是合法",
+        "请查收根据您提供的检索证据整理的法",
+        "根据当前知识库资料无法",
+        "违法",
+        "劳动者主张违法",
+        "相关司法",
+        "当事人的诉求可能不局限于法",
+        "的法"
+      ],
+      "has_answer": true
+    },
+    {
+      "question": "无证驾驶被交警抓了会怎么处罚？",
+      "expected_domain": "行政法",
+      "response_time_ms": 28714.1,
+      "used_rag": true,
+      "used_fallback": false,
+      "references_count": 7,
+      "recall_at_k": null,
+      "cited_articles": [
+        "执法",
+        "根据当前知识库资料无法",
+        "依法",
+        "无证驾驶被查获后可能产生的法",
+        "等违法",
+        "关于吊销驾驶证的法",
+        "应当依法",
+        "交通警察发现驾驶人未携带驾驶证或存在其他法",
+        "可以依法",
+        "若因采取不正确的方法",
+        "执法过程中是否涉及其他并发违法",
+        "所依据的当地执法裁量基准或相关法",
+        "并可以依照本法",
+        "的违法",
+        "交警大队依法",
+        "相关司法",
+        "相关法"
+      ],
+      "has_answer": true
+    }
+  ]
+}

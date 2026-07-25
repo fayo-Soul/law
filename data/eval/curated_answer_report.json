@@ -1,0 +1,83 @@
+{
+  "eval_date": "2026-07-24 21:27:38",
+  "total_samples": 3,
+  "evaluated": 3,
+  "metrics": {
+    "avg_response_time_ms": 22773.4,
+    "recall_at_k_pct": 100.0,
+    "recall_sample": 3,
+    "with_references": 3,
+    "citation_coverage_pct": 100.0
+  },
+  "quality_gates": {
+    "recall_at_k": true,
+    "citation_coverage": true,
+    "average_latency": true,
+    "no_runtime_errors": true
+  },
+  "passed": true,
+  "domain_distribution": {
+    "民法": 3
+  },
+  "results": [
+    {
+      "question": "离婚后孩子抚养权一般怎么判？",
+      "expected_domain": "民法",
+      "response_time_ms": 24081.3,
+      "used_rag": true,
+      "used_fallback": false,
+      "references_count": 7,
+      "recall_at_k": 1.0,
+      "cited_articles": [
+        "无法确定法",
+        "以供法",
+        "目前检索到的案例未提供关于司法",
+        "相关法",
+        "其个人真实意愿应被法",
+        "相关司法",
+        "由人民法"
+      ],
+      "has_answer": true
+    },
+    {
+      "question": "离婚后不直接带孩子的一方需要支付抚养费吗？",
+      "expected_domain": "民法",
+      "response_time_ms": 25372.5,
+      "used_rag": true,
+      "used_fallback": false,
+      "references_count": 7,
+      "recall_at_k": 1.0,
+      "cited_articles": [
+        "才由法",
+        "相关法",
+        "相关司法",
+        "但这不改变法",
+        "作为内部法",
+        "根据当前知识库资料无法",
+        "这是法",
+        "由人民法"
+      ],
+      "has_answer": true
+    },
+    {
+      "question": "一般民事纠纷的诉讼时效是几年，从什么时候开始算？",
+      "expected_domain": "民法",
+      "response_time_ms": 18866.5,
+      "used_rag": true,
+      "used_fallback": false,
+      "references_count": 7,
+      "recall_at_k": 1.0,
+      "cited_articles": [
+        "民法典",
+        "向人民法",
+        "相关法",
+        "中华人民共和国民法典",
+        "相关司法",
+        "根据前述法",
+        "中华人民共和国民法",
+        "人民法"
+      ],
+      "has_answer": true
+    }
+  ]
+}

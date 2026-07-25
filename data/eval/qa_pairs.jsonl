@@ -1,0 +1,55 @@
+{"question": "离婚之后孩子的抚养权怎么判？", "expected_domain": "民法", "golden_docs": ["民法典 第一千零八十四条", "民法典 第一千零八十五条"]}
+{"question": "被公司无故辞退，我能拿到多少赔偿？", "expected_domain": "劳动法", "golden_docs": ["劳动合同法 第八十七条", "劳动合同法 第四十七条"]}
+{"question": "无证驾驶被交警抓了会怎么处罚？", "expected_domain": "行政法", "golden_docs": []}
+{"question": "朋友借钱不还，我该怎么起诉？", "expected_domain": "民法", "golden_docs": ["民法典 第一百八十八条", "民法典 第六百七十九条"]}
+{"question": "公司拖欠工资三个月了怎么办？", "expected_domain": "劳动法", "golden_docs": ["劳动合同法 第八十五条"]}
+{"question": "交通事故责任认定不服怎么办？", "expected_domain": "行政法", "golden_docs": []}
+{"question": "故意伤害罪能判多少年？", "expected_domain": "刑法", "golden_docs": ["刑法 第二百三十四条"]}
+{"question": "购买到假货可以要求几倍赔偿？", "expected_domain": "民法", "golden_docs": ["消费者权益保护法 第五十五条"]}
+{"question": "试用期最长可以约定多久？", "expected_domain": "劳动法", "golden_docs": ["劳动合同法 第十九条"]}
+{"question": "民间借贷利息最高多少受法律保护？", "expected_domain": "民法", "golden_docs": ["民法典 第六百八十条", "最高人民法院关于审理民间借贷案件适用法律若干问题的规定"]}
+{"question": "交通肇事逃逸怎么处罚？", "expected_domain": "刑法", "golden_docs": ["刑法 第一百三十三条"]}
+{"question": "婚内出轨导致离婚可以要求赔偿吗？", "expected_domain": "民法", "golden_docs": ["民法典 第一千零九十一条"]}
+{"question": "工伤认定需要哪些材料？", "expected_domain": "劳动法", "golden_docs": ["工伤保险条例 第十四条", "工伤保险条例 第十八条"]}
+{"question": "盗窃罪数额较大是多少钱？", "expected_domain": "刑法", "golden_docs": ["刑法 第二百六十四条"]}
+{"question": "合同纠纷的诉讼时效是几年？", "expected_domain": "民法", "golden_docs": ["民法典 第一百八十八条"]}
+{"question": "周末加班工资怎么算？", "expected_domain": "劳动法", "golden_docs": ["劳动法 第四十四条"]}
+{"question": "取保候审需要什么条件？", "expected_domain": "刑法", "golden_docs": ["刑事诉讼法 第六十七条"]}
+{"question": "房子被强拆可以起诉政府吗？", "expected_domain": "行政法", "golden_docs": []}
+{"question": "什么是夫妻共同财产？", "expected_domain": "民法", "golden_docs": ["民法典 第一千零六十二条"]}
+{"question": "医疗事故责任怎么认定？", "expected_domain": "民法", "golden_docs": ["民法典 第一千二百一十八条"]}
+{"question": "未签劳动合同可以主张双倍工资吗？", "expected_domain": "劳动法", "golden_docs": ["劳动合同法 第八十二条"]}
+{"question": "抢劫罪和抢夺罪的区别是什么？", "expected_domain": "刑法", "golden_docs": ["刑法 第二百六十三条", "刑法 第二百六十七条"]}
+{"question": "买到过期食品可以要求什么赔偿？", "expected_domain": "民法", "golden_docs": ["食品安全法 第一百四十八条"]}
+{"question": "醉驾入刑的标准是什么？", "expected_domain": "刑法", "golden_docs": ["刑法 第一百三十三条之一"]}
+{"question": "女职工产假有多少天？", "expected_domain": "劳动法", "golden_docs": ["女职工劳动保护特别规定 第七条"]}
+{"question": "二手房买卖卖方违约怎么办？", "expected_domain": "民法", "golden_docs": ["民法典 第五百七十七条", "民法典 第五百八十五条"]}
+{"question": "行政处罚不服可以复议吗？", "expected_domain": "行政法", "golden_docs": ["行政复议法 第二条"]}
+{"question": "非法吸收公众存款罪怎么认定？", "expected_domain": "刑法", "golden_docs": ["刑法 第一百七十六条"]}
+{"question": "亲子鉴定可以作为证据吗？", "expected_domain": "民法", "golden_docs": []}
+{"question": "经济补偿金和赔偿金的区别？", "expected_domain": "劳动法", "golden_docs": ["劳动合同法 第四十六条", "劳动合同法 第八十七条"]}
+{"question": "寻衅滋事罪的构成要件是什么？", "expected_domain": "刑法", "golden_docs": ["刑法 第二百九十三条"]}
+{"question": "房东可以随意涨房租吗？", "expected_domain": "民法", "golden_docs": ["民法典 第七百零四条"]}
+{"question": "行政诉讼的起诉期限是多久？", "expected_domain": "行政法", "golden_docs": ["行政诉讼法 第四十六条"]}
+{"question": "强迫劳动罪怎么处罚？", "expected_domain": "刑法", "golden_docs": ["刑法 第二百四十四条"]}
+{"question": "最低工资标准包括五险一金吗？", "expected_domain": "劳动法", "golden_docs": ["劳动法 第四十八条"]}
+{"question": "定金和订金哪个可以退？", "expected_domain": "民法", "golden_docs": ["民法典 第五百八十六条", "民法典 第五百八十七条"]}
+{"question": "国家赔偿的范围包括哪些？", "expected_domain": "行政法", "golden_docs": ["国家赔偿法 第三条", "国家赔偿法 第四条"]}
+{"question": "猥亵儿童罪怎么判？", "expected_domain": "刑法", "golden_docs": ["刑法 第二百三十七条"]}
+{"question": "公司裁员需要支付经济补偿吗？", "expected_domain": "劳动法", "golden_docs": ["劳动合同法 第四十一条", "劳动合同法 第四十六条"]}
+{"question": "担保人的保证责任有哪些？", "expected_domain": "民法", "golden_docs": ["民法典 第六百八十六条", "民法典 第六百八十八条"]}
+{"question": "赌博罪的立案标准是什么？", "expected_domain": "刑法", "golden_docs": ["刑法 第三百零三条"]}
+{"question": "年假未休可以要求补偿吗？", "expected_domain": "劳动法", "golden_docs": ["职工带薪年休假条例 第五条"]}
+{"question": "继承权男女是否平等？", "expected_domain": "民法", "golden_docs": ["民法典 第一千一百二十六条"]}
+{"question": "食品安全行政拘留的依据是什么？", "expected_domain": "行政法", "golden_docs": []}
+{"question": "贩卖毒品罪量刑标准是多少？", "expected_domain": "刑法", "golden_docs": ["刑法 第三百四十七条"]}
+{"question": "竞业限制补偿金标准是多少？", "expected_domain": "劳动法", "golden_docs": ["劳动合同法 第二十三条"]}
+{"question": "名誉权被侵害怎么维权？", "expected_domain": "民法", "golden_docs": ["民法典 第一千零二十四条", "民法典 第一百七十九条"]}
+{"question": "行政诉讼中谁承担举证责任？", "expected_domain": "行政法", "golden_docs": ["行政诉讼法 第三十四条"]}
+{"question": "诈骗罪的构成要件是什么？", "expected_domain": "刑法", "golden_docs": ["刑法 第二百六十六条"]}
+{"question": "自动离职有经济补偿吗？", "expected_domain": "劳动法", "golden_docs": ["劳动合同法 第三十八条", "劳动合同法 第四十六条"]}
+{"question": "赡养老人的法律规定是什么？", "expected_domain": "民法", "golden_docs": ["民法典 第一千零六十七条", "民法典 第二十六条"]}
+{"question": "行政复议前置的情况有哪些？", "expected_domain": "行政法", "golden_docs": []}
+{"question": "累犯可以从轻处罚吗？", "expected_domain": "刑法", "golden_docs": ["刑法 第六十五条"]}
+{"question": "劳务派遣同工同酬如何保障？", "expected_domain": "劳动法", "golden_docs": ["劳动合同法 第六十三条"]}
+{"question": "房屋租赁合同最长可以签多久？", "expected_domain": "民法", "golden_docs": ["民法典 第七百零五条"]}
